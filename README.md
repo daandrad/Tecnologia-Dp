@@ -1,4 +1,4 @@
-# Tecnologia-Depress-o
+# Tecnologia-Depressão
 Tecnologia pode curar depressão
 Olá esse é meu primeiro projeto da Dio.me que fala a importancia da tecnologia na cura da depressão e Saúde metal
 Link das pesquisa que eu fiz 
